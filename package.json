@@ -1,0 +1,29 @@
+{
+  "name": "moti_quote",
+  "version": "1.0.0",
+  "description": "Gives you a random motivational quote to keep going!",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyAero/motivation_quotes_npm.git"
+  },
+  "keywords": [
+    "motivational",
+    "quotes"
+  ],
+  "author": "Aaron & Ravil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyAero/motivation_quotes_npm/issues"
+  },
+  "homepage": "https://github.com/HeyAero/motivation_quotes_npm#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
