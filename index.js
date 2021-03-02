@@ -10,3 +10,5 @@ const cli = meow(`
     $ getQuote
     Returns a random quote from our array
 `);
+
+console.log(getQuote(cli.input[0]));
